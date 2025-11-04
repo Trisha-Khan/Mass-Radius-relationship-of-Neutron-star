@@ -71,6 +71,9 @@ Requirements
 Author
 ------
 Trisha Khan
+
 Developed as part of Astrophysics Masters Thesis
+
 GitHub: https://github.com/Trisha-Khan
+
 Description: MATLAB-based numerical integration of the Tolman–Oppenheimer–Volkoff (TOV) equations to compute the Mass–Radius relation of neutron stars, identifying the maximum stable configuration and exploring general relativistic effects on stellar structure.
